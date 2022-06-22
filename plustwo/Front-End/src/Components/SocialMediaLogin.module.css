@@ -1,0 +1,10 @@
+.login{
+    width: 200px;
+    height: 60px;
+    border-color: black;
+}
+.login span{
+    font-weight: bold;
+    font-size: 15px;
+    padding-left: 10px;
+}
